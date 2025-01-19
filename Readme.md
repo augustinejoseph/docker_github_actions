@@ -5,3 +5,4 @@
 - SSR & static caching
 - 404 Not Found page
 - and more
+- 
